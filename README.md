@@ -1,4 +1,5 @@
-# Planet Pelagos
+# Planet Pelagos: No Sanity Edition
+### This is a modpack-friendly fork of [Planet Pelagos by Talandar99](https://github.com/Talandar99/pelagos), under the same GPL-3.0 license. All credit for making this project goes to them.
 ![welcome_on_pelagos](https://raw.githubusercontent.com/Talandar99/pelagos/refs/heads/main/readme_images/welcome_on_pelagos.png)
 Welcome to Pelagos. Insular planet rich in tropical coconut palms, methane deposits, and mysterious lifeforms. 
 Harvest coconuts, process them into oil, sealant, and biofuels, experiment with fermentation, and use high-temperature calciners 
